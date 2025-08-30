@@ -68,10 +68,11 @@ function App() {
       >
         {/* Brand Heading */}
         <h1 className="text-3xl font-extrabold text-center text-blue-700 mb-2">
-          Flantik Solution
+          Flantik Solution 🚀
         </h1>
+        <h3 className="text-center font-bold text-blue-500">“Empowering Students with Opportunities <br /> Apply Now and Start Your Career Journey!”</h3>
         <p className="text-center text-gray-500 mb-6">
-          Please fill the application form below
+          Please fill the application form below carefully.
         </p>
 
         {/* Full Name */}
